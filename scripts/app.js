@@ -447,7 +447,7 @@ class WebDev100Days {
         features: ["Typing Challenge", "Real-time Feedback", "Statistics Tracking"]
       },
       {
-        originalDay: 59,
+        originalDay: 33,
         name: "Sorting visualiser",
         description: "Interactive sorting visualiser with real-time feedback and statistics tracking. Visualise how different sorting algorithms work step-by-step, compare swap counts and animation speed, and experiment with array sizes and colors.",
         demoLink: "./public/Day58-Sorting_visualiser/Sorting_visualiser.html",
